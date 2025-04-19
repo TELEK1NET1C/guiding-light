@@ -1,6 +1,4 @@
-Use this template on GitHub or [download the code](https://github.com/SlimeCubed/ExampleSlugBaseMod/archive/refs/heads/master.zip), whichever is easiest.
+The Guiding Light is a slugcat mod for Rain World. Currently, there is nothing planned for a campaign besides a very bare-bones story, but I wanted to make a sort of proof-of-concept anyways.
 
-Links:
-- [Template Walkthrough](https://slimecubed.github.io/slugbase/articles/template.html) for a guide to this template.
-- [SlugBase Docs](https://slimecubed.github.io/slugbase/) for information regarding custom slugcats.
-- [Modding Wiki](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories) for `modinfo.json` documentation.
+# Lore
+An omen whispers through this ravaged place. Plea your message, or die trying.
