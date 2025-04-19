@@ -1,9 +1,9 @@
 ﻿{
-	"id": "author.slugtemplate",
-	"name": "Slugcat Template",
-	"version": "0.1.0",
-	"authors": "Author",
-	"description": "A template for making SlugBase mods.",
+	"id": "tk1.guidinglight",
+	"name": "The Guiding Light",
+	"version": "0.0.1",
+	"authors": "TELEK1NET1C (TK1)",
+	"description": "A WIP slugcat mod that adds The Guiding Light. Custom campaign to come!",
 	"requirements": [ "slime-cubed.slugbase" ],
 	"requirements_names": [ "SlugBase" ],
 	"tags": [ "Custom Slugcat" ]

@@ -1,0 +1,14 @@
+{
+	"id": "the_guiding_light",
+	"name": "The Guiding Light",
+	"description": "A WIP slugcat mod that adds The Guiding Light. Custom campaign to come!",
+	"features": {
+		"color": "151416",
+		"slugtemplate/super_jump": 0.5,
+		"slugtemplate/explode_on_death": true,
+
+		"select_menu_scene": "Slugcat_GuidingLight",
+		"select_menu_scene_ascended": "Ghost_GuidingLight",
+		"slugtemplate/mean_lizards": 0.8
+	}
+}
