@@ -1,0 +1,5 @@
+{
+    "id": "GuidingLight",
+    "base": [ "Yellow" ],
+    "insert_before": "Rivulet"
+}

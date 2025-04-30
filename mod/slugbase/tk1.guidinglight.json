@@ -4,11 +4,45 @@
 	"description": "A WIP slugcat mod that adds The Guiding Light. Custom campaign to come!",
 	"features": {
 		"color": "151416",
-		"guidinglight/super_jump": 0.5,
-		"guidinglight/explode_on_death": true,
-
+		"custom_colors": [
+			{
+				"name": "Body",
+				"story": "151416"
+			},
+			{
+				"name": "Eyes",
+				"story": "FFFFFF"
+			}
+			{
+				"name": "Fluff",
+				"story": "FFFFFF"
+			}
+			{
+				"name": "Belt",
+				"story": "FFFFFF"
+			}
+		],
+		"start_room": "SH_C07",
 		"select_menu_scene": "tk1.guidinglight.slug",
-		"select_menu_scene_ascended": "tk1.guidinglight.ghost",
-		"guidinglight/mean_lizards": 0.8
+
+		"the_mark": true,
+		"the_glow": true,
+
+		"has_dreams": false,
+
+		"food_min": 4,
+		"food_max": 6,
+		"weight": 0.9,
+		"throw_skill": 1,
+
+		"world_state": [ "GuidingLight", "Yellow" ],
+
+		"diet": {
+			"base": "White",
+			"overrides": {
+				"SLOracleSwarmer": -1,
+				"SSOracleSwarmer":  -1
+			}
+		}
 	}
 }
