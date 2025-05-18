@@ -1,4 +1,4 @@
-## Nacre peels from engraved enamel. The Superego eats away at the Id eats away at itself. When there is no mediator, the rot consumes.
+## A hyperintelligent slugcat with the ability to commune with Neuron Flies, and seemingly read and write data to pearls using nothing but its own two hands.
 
 The Guiding Light is a **!!work in progress!!** slugcat mod for Rain World. Currently, there is nothing planned for a campaign besides a base backstory, but I wanted to make a sort of proof-of-concept anyways.
 
